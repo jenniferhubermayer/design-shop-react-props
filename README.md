@@ -28,7 +28,7 @@ Code a component that renders three product cards. Give each card its own props.
 
 ### Links
 
-- Solution URL: [https://github.com/jenniferhubermayer/xxx](https://github.com/jenniferhubermayer/xxx)
+- Solution URL: [https://github.com/jenniferhubermayer/design-shop-react-props/](https://github.com/jenniferhubermayer/design-shop-react-props/)
 <!-- - Live Site URL: [https://jenniferhubermayer.github.io/sneaker-shop/](https://jenniferhubermayer.github.io/sneaker-shop/) -->
 
 ## My process
@@ -37,7 +37,7 @@ Code a component that renders three product cards. Give each card its own props.
 
 - React App
 - Semantic HTML5 markup
-- CSS
+- CSS (desktop only)
 - Flex and Grid
 - JavaScript
 
