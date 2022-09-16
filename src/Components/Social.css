@@ -1,0 +1,13 @@
+.footer-info-social-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-info-social-wrapper div{
+    width: 25px;
+    margin-right: 25px;
+}
+
+.footer-info-social-wrapper div img{
+    width: 100%;
+}

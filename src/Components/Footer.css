@@ -1,0 +1,50 @@
+footer{
+    margin: 20px 60px 20px 60px;
+}
+
+footer .footer-info{
+    display: flex;
+    gap: 30px;
+    margin-top: 60px;
+}
+
+footer .footer-info h2{
+    margin-bottom: 20px;
+}
+
+
+footer #footer-info-about{
+    flex-basis: 25%;
+}
+
+footer #footer-info-contact{
+    flex-basis: 25%;
+}
+
+footer #footer-info-newsletter{
+    flex-basis: 25%;
+}
+
+footer #footer-info-social{
+    flex-basis: 25%;
+}
+
+footer .footer-disclaimer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+footer #footer-disclaimer-content{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+footer #footer-disclaimer-content-links{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: space-between;
+}

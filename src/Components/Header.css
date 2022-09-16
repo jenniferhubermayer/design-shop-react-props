@@ -1,0 +1,43 @@
+header{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 80px 60px 120px 60px;
+}
+
+header h1 {
+  text-transform: uppercase;
+}
+
+header nav{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 80px;
+}
+
+header nav hr{
+  width: 1rem;
+  transform: rotate(90deg) translateX(-75%);
+}
+
+header nav div ul{
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 30px;
+}
+
+header nav ul li{
+  display: inline;
+}
+
+@media only screen and (max-width: 576px) {
+  header nav hr{
+    display: none;
+  }
+  header nav{
+  gap: none;
+  }
+}
